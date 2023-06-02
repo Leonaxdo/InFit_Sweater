@@ -3,6 +3,7 @@ package ken.projects.infit.data.models
 
 import java.time.DayOfWeek
 
+
 data class Workout(
     val name: String? = null,
     val targetMuscleGroups: ArrayList<String>? = null,
