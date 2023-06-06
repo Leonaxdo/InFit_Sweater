@@ -1,14 +1,4 @@
 
-# 👷🚧 inFit App 🚧👷
-
-An app to log your workouts in the gym and keep track of your progress.
-Built entirely in Kotlin using following latest architecture components.
-
-
-## Build 🏗️
-
-InFit is built following MVVM design pattern guidelines and using the following components:
-
 ### Front End
 
 - [Kotlin]() - Android's official programming language.
